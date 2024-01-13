@@ -1,0 +1,622 @@
+/* ============================================================================================================ */
+/* Laptop L */
+/* ============================================================================================================ */
+@media(max-width: 1440px) {
+    .third-minus-22 {
+        width: 60px;
+    }
+
+    .minus-22 {
+        width: 10%;
+    }
+
+    .minus {
+        margin-right: 15px;
+        width: 4%;
+    }
+
+    .footer-mail input {
+        width: 29%;
+    }
+
+    .brand-4 {
+        display: none;
+    }
+
+    .footer-social {
+        display: flex;
+        align-items: center;
+        justify-content: end;
+    }
+
+    .minus-first {
+        width: 7.9%;
+    }
+}
+
+/* ============================================================================================================ */
+/* Laptop  */
+/* ============================================================================================================ */
+@media (max-width: 1024px) {
+    .main-caption h1 {
+        font-size: 60px;
+    }
+
+    .minus-first {
+        width: 12%;
+    }
+
+    .main-captions-p {
+        margin-bottom: 35px;
+    }
+
+    .intro {
+        height: 700px;
+    }
+
+    .brand-4 {
+        display: none;
+    }
+
+    .minus-2 {
+        width: 6.5%;
+    }
+
+    .best-service-images {
+        width: 100%;
+    }
+
+    .white-line {
+        width: 14%;
+    }
+
+    .services-caption span {
+        padding-left: 0px;
+    }
+
+    .fourth-spacer {
+        padding-top: 150px;
+    }
+
+    .about-company {
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    .minus-middle {
+        width: 6.5%;
+        margin-right: 10px;
+    }
+
+    .minus-2 {
+        height: 2px;
+        margin-right: 10px;
+    }
+
+    .minus-22 {
+        margin-right: 23px;
+        width: 13%;
+    }
+
+    .footer-mail input {
+        height: 43px;
+        width: 29%;
+    }
+
+    .brand-4 {
+        display: none;
+    }
+
+    .spacer {
+        padding-top: 140px;
+    }
+}
+
+@media(max-width:950px) {
+    .brand-33 {
+        display: none;
+    }
+}
+
+/* ============================================================================================================ */
+/* Tablet  */
+/* ============================================================================================================ */
+@media (max-width: 768px) {
+    .main-caption h1 {
+        font-size: 50px;
+    }
+    .for-responsibility .col-4 {
+        width: 50%;
+    }
+    .brand-2 {
+        display: none;
+    }
+
+    .about-us-caption {
+        padding-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .mb-50px {
+        font-size: 15px;
+        color: #D3D3D3;
+    }
+
+    .minus-first {
+        width: 15%;
+    }
+
+    .top-nav {
+        display: none;
+    }
+
+    .brand-4 {
+        display: none;
+    }
+
+    .brand-5 {
+        display: none;
+    }
+
+    .intro {
+        height: 645px;
+    }
+
+    .main-captions-p {
+        margin-bottom: 35px;
+    }
+
+    .minus-2 {
+        margin-right: 15px;
+        width: 11%;
+    }
+
+    .spacer {
+        padding-top: 100px;
+    }
+
+    .secound-spacer {
+        padding-bottom: 70px;
+
+    }
+
+    .minus-2 {
+        margin-right: 10px;
+        width: 8.5%;
+    }
+
+    .white-line {
+        height: 2px;
+        margin-right: 10px;
+        width: 8%
+    }
+
+    .edited {
+        padding-top: 6%;
+    }
+
+    .third-spacer {
+        padding-bottom: 95px;
+    }
+
+    .third-minus-22 {
+        width: 55px;
+    }
+
+    .services-caption {
+        padding: 33px 0px 16px 32px;
+        width: 95%;
+    }
+
+    .services-caption span a {
+        color: #0e132a;
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+    .mb-50px {
+        margin-bottom: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 18px;
+    }
+
+    .team-members {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+
+    .third-minus {
+        width: 60px;
+    }
+
+    .application-for-work h2 {
+        font-size: 30px;
+    }
+
+    .first-class-consultant .col-9 {
+        width: 70%;
+    }
+
+    .minus-middle {
+        width: 9%;
+    }
+
+    .blog-caption {
+        padding: 30px 7px 31px 32px;
+    }
+
+    .blog-caption a {
+        font-size: 24px;
+    }
+
+    .blog-img p {
+        padding: 20px 10px 20px 20px;
+    }
+
+    .for-down-margin {
+        font-size: 14px;
+    }
+
+    .mt-143 {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+    .footer-social {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+    }
+
+    .for-responsibility .col-4 {
+        width: 50%;
+    }
+
+}
+@media (max-width: 767px) {
+    .for-responsibility .col-4 {
+        width: 100%;
+    }
+}
+/* ============================================================================================================ */
+/* Mobile L  */
+/* ============================================================================================================ */
+@media (max-width: 425px) {
+    .brand-2 {
+        display: none;
+    }
+
+    .for-responsibility .col-4 {
+        width: 100%;
+    }
+
+
+    .brand-3 {
+        display: none;
+    }
+
+    .spacer {
+        padding-top: 60px;
+    }
+
+    .slideshow-container {
+        padding-bottom: 90px;
+    }
+
+    .main-caption h1 {
+        font-size: 29px;
+    }
+
+    .first-p {
+        font-size: 13px;
+    }
+
+    .main-captions-p {
+        font-size: 14px;
+    }
+
+    .br-tag {
+        display: none;
+    }
+
+    .intro {
+        height: 510px;
+    }
+
+    .members-title {
+        font-size: 31px;
+    }
+
+    .Our-Best-Services {
+        font-size: 31px;
+    }
+
+    .about-us h2 {
+        font-size: 27px;
+    }
+
+    .secound-editer {
+        margin-bottom: 55px;
+    }
+
+    .Our-Best-Services-third {
+        font-size: 31px;
+    }
+
+    .services-caption {
+        width: 100%;
+    }
+
+    .fourth-spacer {
+        display: none;
+    }
+
+    .mb-50px {
+        font-size: 15px;
+    }
+
+    .team-members {
+        padding-top: 65px;
+        padding-bottom: 70px;
+    }
+
+    .for-responsibility .col-4 {
+        width: 100%;
+    }
+
+    .application-for-work h2 {
+        font-size: 25px;
+    }
+
+    .first-class-consultant .col-9 {
+        width: 100%;
+    }
+
+    .cus-btn-1 {
+        margin-top: 24px;
+        margin-left: 13px;
+    }
+
+    .mb-100 {
+        margin-bottom: 0px;
+    }
+
+    .for-width .col-6 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .blog-caption a {
+        font-size: 19px;
+    }
+
+    .for-down-margin {
+        font-size: 16px;
+    }
+
+    .footer-social a .fa-twitter {
+        margin-left: 0px;
+    }
+
+    .footer-mail input {
+        width: 94%;
+    }
+
+    .top-services {
+        font-size: 14px;
+    }
+
+    .minus-middle {
+        width: 16%;
+        margin-right: 16px;
+    }
+
+    .minus-22 {
+        margin-right: 15px;
+        width: 10%;
+    }
+
+    .Our-Best-Services-third {
+        margin-bottom: 60px;
+    }
+
+    .minus-2 {
+        margin-right: 15px;
+        width: 16%;
+    }
+
+    .minus-first {
+        width: 17%;
+    }
+
+    .secound-p {
+        font-size: 14px;
+    }
+
+    .white-line {
+        width: 16%;
+    }
+
+    .mb-30 {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+
+    .members-title {
+        margin-bottom: 17px;
+    }
+
+    .mb-30 {
+        padding-top: 50px;
+    }
+
+    .members-title {
+        margin-bottom: 0px;
+    }
+
+    .Our-Best-Services {
+        padding-bottom: 0px;
+    }
+
+    .team-members {
+        padding-top: 65px;
+        padding-bottom: 30px;
+    }
+
+    .cus-btn-1 {
+        margin-top: 40px;
+    }
+
+    .mb50 {
+        padding-bottom: 50px;
+    }
+
+    .mb-30 {
+        padding-top: 30px;
+    }
+}
+
+/* ============================================================================================================ */
+/* Mobile M  */
+/* ============================================================================================================ */
+
+@media (max-width:375px) {
+    .main-captions-p {
+        line-height: 27px;
+        font-weight: 500;
+    }
+
+    .cus-btn {
+        margin-top: 0px;
+    }
+
+    .minus-2 {
+        margin-right: 16px;
+        width: 17%;
+    }
+
+    .intro {
+        height: 500px;
+    }
+
+    .dash {
+        margin-bottom: 22px;
+    }
+
+    .main-caption {
+        margin-top: 25%;
+    }
+
+    .minus-first {
+        width: 20%;
+        margin-right: 30px;
+    }
+
+    .Our-Best-Services {
+        padding-bottom: 30px;
+    }
+
+    .supporting-companies {
+        padding: 100px 0px;
+    }
+
+    .third-minus-22 {
+        width: 60px;
+    }
+
+    .minus-22 {
+        margin-right: 15px;
+        width: 10.9%;
+    }
+
+    .about-company {
+        padding-bottom: 233px;
+    }
+
+    .white-line {
+        width: 18%;
+    }
+
+    .mt-143 {
+        padding-top: 80px;
+    }
+
+    .minus-first {
+        width: 70px;
+    }
+
+    .Our-Best-Services {
+        padding-bottom: 27px;
+    }
+
+    .minus-2 {
+        margin-right: 16px;
+        width: 20%;
+    }
+
+    .white-line {
+        width: 22%;
+    }
+}
+
+/* ============================================================================================================ */
+/* Mobile M  */
+/* ============================================================================================================ */
+
+@media(max-width:320px) {
+    .minus-2 {
+        margin-right: 16px;
+        width: 21%;
+    }
+
+    .about-us-caption {
+        padding-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .about-us h2 {
+        margin-bottom: 50px;
+    }
+
+    .edited {
+        padding-top: 0%;
+    }
+
+    .secound-editer {
+        margin-bottom: 65px;
+    }
+
+    .third-spacer {
+        padding-bottom: 60px;
+    }
+
+    .Our-Best-Services-third {
+        font-size: 29px;
+    }
+
+    .third-minus-22 {
+        width: 55px;
+    }
+
+    .minus-22 {
+        width: 13%;
+    }
+
+    .members-title {
+        font-size: 29px;
+    }
+
+    .third-minus {
+        width: 55px;
+    }
+
+    .minus-middle {
+        width: 21%;
+    }
+
+    .footer-mail input {
+        width: 93%;
+    }
+
+}
